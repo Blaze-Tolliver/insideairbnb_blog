@@ -6,9 +6,9 @@
 1. I wanted to practice the CRISP-DM process on an interesting dataset. 
 ---
 #Files
-*listings_detail.csv contains aggregated and current data for each Airbnb listing in Bristol
-*reviews_detail.csv contains detailed data for each review left for each listing since the first listings in 2011
-*reviews.csv is a simplified version of reviews_detail - just giving review date and listing ID
+1. listings_detail.csv contains aggregated and current data for each Airbnb listing in Bristol
+2. reviews_detail.csv contains detailed data for each review left for each listing since the first listings in 2011
+3. reviews.csv is a simplified version of reviews_detail - just giving review date and listing ID
 ---
 #Analysis Results Summary
 I analyzed three broad questions about Airbnb usage in Bristol, UK. 
