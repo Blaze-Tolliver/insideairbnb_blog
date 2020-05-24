@@ -1,9 +1,9 @@
 #Libraries
-*standard libraries: numpy, pandas, matplotlib
-*additional libraries: seaborn, textblog, and statsmodels
+1. standard libraries: numpy, pandas, matplotlib
+2. additional libraries: seaborn, textblog, and statsmodels
 ---
 #Project Motivation
-I wanted to practice the CRISP-DM process on an interesting dataset. 
+1. I wanted to practice the CRISP-DM process on an interesting dataset. 
 ---
 #Files
 *listings_detail.csv contains aggregated and current data for each Airbnb listing in Bristol
